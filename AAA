@@ -9,15 +9,3 @@ Integer myVar1 = 42985;
 
   ++ myVar2;
   }
-
-Integer myVar1 = 42985;
-  Integer myVar2 = 1;
-  while (true)
-  {
-     if (myVar2 >= myVar1)
-     {
-     break;
-     }
-
-  ++ myVar2;
-  }
